@@ -29,7 +29,9 @@ This is a simple yet efficient Python-based calculator that allows users to perf
 📌 Author
 
 Name: Sufyan Khan
-📧 Email: Assifankhan15766@email.com
+
+📧 Email: Assifankhan15766@Gmail.com
+
 🌍 Location: Peshawar, Pakistan
 
 🌟 Thank you for using this calculator! Happy coding! 🚀
