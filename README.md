@@ -7,9 +7,13 @@ This is a simple yet efficient Python-based calculator that allows users to perf
 🚀 Features
 
 ✅ Addition, Subtraction, Multiplication, and Division operations.
+
 ✅ Interactive user input for a seamless experience.
+
 ✅ Looping mechanism to perform multiple calculations.
+
 ✅ User-friendly exit option.
+
 ✅ Handles division by zero to prevent errors.
 
 🛠️ How It Works
