@@ -14,8 +14,6 @@ This is a simple yet efficient Python-based calculator that allows users to perf
 
 ✅ User-friendly exit option.
 
-✅ Handles division by zero to prevent errors.
-
 🛠️ How It Works
 
 ✅ The program presents a menu of operations:
@@ -25,10 +23,6 @@ This is a simple yet efficient Python-based calculator that allows users to perf
 ✅ The calculator performs the requested operation and displays the result.
 
 ✅ The user can choose to continue or exit the program.
-
-🔍 Error Handling :
-
-✅ Division by Zero: If a user attempts to divide by zero, the program will display an appropriate error message instead of crashing.
 
 📌 Author :
 
