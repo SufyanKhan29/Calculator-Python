@@ -32,7 +32,7 @@ Name: Sufyan Khan
 
 🌍 Location: Peshawar, Pakistan
 
-🌟 Thank you for using this calculator! Happy coding! 🚀
+🌟 Thank you for checking out my calculator! 🚀
 
 
 
