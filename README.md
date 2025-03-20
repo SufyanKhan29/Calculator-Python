@@ -1,10 +1,10 @@
 🧮 Python Calculator
 
-📌 About the Project
+📌 About the Project :
 
 This is a simple yet efficient Python-based calculator that allows users to perform basic arithmetic operations interactively.
 
-🚀 Features
+🚀 Features :
 
 ✅ Addition, Subtraction, Multiplication, and Division operations.
 
@@ -18,19 +18,19 @@ This is a simple yet efficient Python-based calculator that allows users to perf
 
 🛠️ How It Works
 
--> The program presents a menu of operations:
+✅ The program presents a menu of operations:
 
--> The user selects an operation and provides two numbers.
+✅ The user selects an operation and provides two numbers.
 
--> The calculator performs the requested operation and displays the result.
+✅ The calculator performs the requested operation and displays the result.
 
--> The user can choose to continue or exit the program.
+✅ The user can choose to continue or exit the program.
 
-🔍 Error Handling
+🔍 Error Handling :
 
--> Division by Zero: If a user attempts to divide by zero, the program will display an appropriate error message instead of crashing.
+✅ Division by Zero: If a user attempts to divide by zero, the program will display an appropriate error message instead of crashing.
 
-📌 Author
+📌 Author :
 
 Name: Sufyan Khan
 
