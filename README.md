@@ -32,6 +32,10 @@ This is a simple yet efficient Python-based calculator that allows users to perf
 
 🌍 Location: Peshawar, Pakistan
 
+💡 Feel free to fork the repository, suggest features, or fix bugs.
+
+If you love this project, give it a ⭐.
+
 🌟 Thank you for checking out my calculator! 🚀
 
 
